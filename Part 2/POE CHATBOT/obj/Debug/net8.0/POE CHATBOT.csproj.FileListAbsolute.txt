@@ -1,0 +1,24 @@
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\POE CHATBOT.exe
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\POE CHATBOT.deps.json
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\POE CHATBOT.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\POE CHATBOT.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\POE CHATBOT.pdb
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\NAudio.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHAT.422EEA39.Up2Date
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\refint\POE CHATBOT.dll
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.pdb
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\POE CHATBOT.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\POE CHATBOT\obj\Debug\net8.0\ref\POE CHATBOT.dll
